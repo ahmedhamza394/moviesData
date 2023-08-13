@@ -1,0 +1,367 @@
+title,year,rated,released,runtime,genre,director,actors,country,mickeyRating,dateWatched
+Eternals,2021,PG-13,05 Nov 2021,156 min,"Action, Adventure, Fantasy",Chloé Zhao,"Gemma Chan, Richard Madden, Angelina Jolie",United States,Okay,01/13/22
+Crazy Rich Asians,2018,PG-13,15 Aug 2018,120 min,"Comedy, Drama, Romance",Jon M. Chu,"Constance Wu, Henry Golding, Michelle Yeoh",United States,Good,01/13/22
+Baby Driver,2017,R,28 Jun 2017,113 min,"Action, Crime, Drama",Edgar Wright,"Ansel Elgort, Jon Bernthal, Jon Hamm","United Kingdom, United States",Good,01/15/22
+Spiral,2021,R,14 May 2021,93 min,"Crime, Horror, Mystery",Darren Lynn Bousman,"Chris Rock, Samuel L. Jackson, Max Minghella","United States, Canada",Bad,01/19/22
+The Cloverfield Paradox,2018,PG-13,04 Feb 2018,102 min,"Action, Adventure, Horror",Julius Onah,"Gugu Mbatha-Raw, David Oyelowo, Daniel Brühl",United States,Okay,01/20/22
+Extinction,2018,TV-MA,27 Jul 2018,95 min,"Action, Drama, Sci-Fi",Ben Young,"Michael Peña, Lizzy Caplan, Amelia Crouch",United States,Good,01/21/22
+Stargate,1994,PG-13,28 Oct 1994,116 min,"Action, Adventure, Sci-Fi",Roland Emmerich,"Kurt Russell, James Spader, Jaye Davidson","United States, France",Good,01/21/22
+Raya and the Last Dragon,2021,PG,05 Mar 2021,107 min,"Animation, Action, Adventure","Don Hall, Carlos López Estrada, Paul Briggs","Kelly Marie Tran, Awkwafina, Gemma Chan",United States,Good,01/21/22
+I Lost My Body,2019,16+,15 Nov 2019,81 min,"Animation, Drama, Fantasy",Jérémy Clapin,"Hakim Faris, Victoire Du Bois, Patrick d'Assumçao",France,Good,01/22/22
+Wish Dragon,2021,PG,11 Jun 2021,98 min,"Animation, Adventure, Comedy",Chris Appelhans,"Jimmy Wong, John Cho, Constance Wu","China, United States",Good,01/22/22
+The Summit of the Gods,2021,PG,30 Nov 2021,95 min,"Animation, Adventure, Drama",Patrick Imbert,"Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau","France, Luxembourg",Good,01/22/22
+21 Jump Street,2012,R,16 Mar 2012,109 min,"Action, Comedy, Crime","Phil Lord, Christopher Miller","Jonah Hill, Channing Tatum, Ice Cube",United States,Good,01/22/22
+Nacho Libre,2006,PG,16 Jun 2006,92 min,"Comedy, Family, Sport",Jared Hess,"Jack Black, Ana de la Reguera, Héctor Jiménez",United States,Good,01/23/22
+Horrible Bosses,2011,R,08 Jul 2011,98 min,"Comedy, Crime",Seth Gordon,"Jason Bateman, Charlie Day, Jason Sudeikis",United States,Okay,01/24/22
+Year One,2009,PG-13,19 Jun 2009,97 min,Comedy,Harold Ramis,"Jack Black, Michael Cera, Olivia Wilde",United States,Okay,01/25/22
+No Time to Die,2021,PG-13,08 Oct 2021,163 min,"Action, Adventure, Thriller",Cary Joji Fukunaga,"Daniel Craig, Ana de Armas, Rami Malek","United Kingdom, United States",Okay,01/25/22
+Horrible Bosses 2,2014,R,26 Nov 2014,108 min,"Comedy, Crime",Sean Anders,"Jason Bateman, Jason Sudeikis, Charlie Day",United States,Okay,01/25/22
+Monster,2003,R,30 Jan 2004,109 min,"Biography, Crime, Drama",Patty Jenkins,"Charlize Theron, Christina Ricci, Bruce Dern","United States, Germany",Good,01/26/22
+The Hateful Eight,2015,R,30 Dec 2015,168 min,"Crime, Drama, Mystery",Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",United States,Good,01/28/22
+The Ridiculous 6,2015,TV-14,11 Dec 2015,119 min,"Action, Adventure, Comedy",Frank Coraci,"Adam Sandler, Terry Crews, Jorge Garcia",United States,Bad,01/28/22
+Ocean's Eight,2018,PG-13,08 Jun 2018,110 min,"Action, Comedy, Crime",Gary Ross,"Sandra Bullock, Cate Blanchett, Anne Hathaway",United States,Okay,01/28/22
+Aladdin,1992,G,25 Nov 1992,90 min,"Animation, Adventure, Comedy","Ron Clements, John Musker","Scott Weinger, Robin Williams, Linda Larkin","United States, Japan",Good,01/29/22
+Jurassic Park,1993,PG-13,11 Jun 1993,127 min,"Action, Adventure, Sci-Fi",Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum",United States,Good,01/29/22
+The Lost World: Jurassic Park,1997,PG-13,23 May 1997,129 min,"Action, Adventure, Sci-Fi",Steven Spielberg,"Jeff Goldblum, Julianne Moore, Pete Postlethwaite",United States,Good,01/29/22
+The Last Duel,2021,R,15 Oct 2021,152 min,"Action, Drama, History",Ridley Scott,"Matt Damon, Adam Driver, Jodie Comer","United States, United Kingdom",Good,01/30/22
+Wonder Woman 1984,2020,PG-13,25 Dec 2020,151 min,"Action, Adventure, Fantasy",Patty Jenkins,"Gal Gadot, Chris Pine, Kristen Wiig",United States,Okay,01/30/22
+Tangled,2010,PG,24 Nov 2010,100 min,"Animation, Adventure, Comedy","Nathan Greno, Byron Howard","Mandy Moore, Zachary Levi, Donna Murphy","United States, Japan",Good,01/30/22
+The Fast and the Furious,2001,PG-13,22 Jun 2001,106 min,"Action, Crime, Thriller",Rob Cohen,"Vin Diesel, Paul Walker, Michelle Rodriguez","United States, Germany",Bad,01/30/22
+Jackass: The Movie,2002,R,25 Oct 2002,85 min,"Documentary, Action, Comedy",Jeff Tremaine,"Johnny Knoxville, Bam Margera, Chris Pontius",United States,Good,02/03/22
+Jackass Number Two,2006,R,22 Sep 2006,92 min,"Documentary, Action, Comedy",Jeff Tremaine,"Johnny Knoxville, Steve-O, Chris Pontius",United States,Good,02/03/22
+Riddick,2013,R,06 Sep 2013,119 min,"Action, Adventure, Sci-Fi",David Twohy,"Vin Diesel, Karl Urban, Katee Sackhoff","Canada, United States",Good,02/03/22
+Jackass 3D,2010,R,15 Oct 2010,94 min,"Documentary, Action, Comedy",Jeff Tremaine,"Johnny Knoxville, Steve-O, Bam Margera",United States,Good,02/03/22
+Dunkirk,2017,PG-13,21 Jul 2017,106 min,"Action, Drama, History",Christopher Nolan,"Fionn Whitehead, Barry Keoghan, Mark Rylance","United Kingdom, Netherlands, France, United States",Good,02/04/22
+Green Snake,1993,Not Rated,04 Nov 1993,99 min,"Drama, Fantasy",Hark Tsui,"Joey Wang, Maggie Cheung, Wenzhuo Zhao",Hong Kong,Bad,02/04/22
+2 Fast 2 Furious,2003,PG-13,06 Jun 2003,107 min,"Action, Crime, Thriller",John Singleton,"Paul Walker, Tyrese Gibson, Cole Hauser","United States, Germany",Bad,02/04/22
+Blade Runner 2049,2017,R,06 Oct 2017,164 min,"Action, Drama, Mystery",Denis Villeneuve,"Harrison Ford, Ryan Gosling, Ana de Armas","United States, United Kingdom, Canada, Spain",Good,02/04/22
+Osmosis Jones,2001,PG,10 Aug 2001,95 min,"Animation, Action, Adventure","Bobby Farrelly, Peter Farrelly","Laurence Fishburne, Chris Rock, David Hyde Pierce","United States, Denmark",Good,02/04/22
+MFKZ,2017,R,12 Oct 2018,94 min,"Animation, Action, Comedy","Shôjirô Nishimi, Guillaume Renard","Orelsan, Gringe, Redouanne Harjane","France, Japan",Good,02/04/22
+Mowgli: Legend of the Jungle,2018,PG-13,07 Dec 2018,104 min,"Adventure, Drama, Fantasy",Andy Serkis,"Christian Bale, Cate Blanchett, Benedict Cumberbatch","United Kingdom, United States",Good,02/05/22
+Ben-Hur,1959,G,18 Nov 1959,212 min,"Adventure, Drama",William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",United States,Good,02/05/22
+Blame!,2017,TV-14,20 May 2017,106 min,"Animation, Action, Drama",Hiroyuki Seshita,"Takahiro Sakurai, Kana Hanazawa, Sora Amamiya",Japan,Okay,02/05/22
+Kingsman: The Golden Circle,2017,R,22 Sep 2017,141 min,"Action, Adventure, Comedy",Matthew Vaughn,"Taron Egerton, Colin Firth, Mark Strong","United Kingdom, United States",Okay,02/11/22
+The King's Man,2021,R,22 Dec 2021,131 min,"Action, Adventure, Thriller",Matthew Vaughn,"Ralph Fiennes, Gemma Arterton, Rhys Ifans","United Kingdom, United States",Okay,02/11/22
+Kimi,2022,R,10 Feb 2022,89 min,"Crime, Drama, Thriller",Steven Soderbergh,"Zoë Kravitz, Byron Bowers, Rita Wilson",United States,Bad,02/17/22
+Wreck-It Ralph,2012,PG,02 Nov 2012,101 min,"Animation, Adventure, Comedy",Rich Moore,"John C. Reilly, Jack McBrayer, Jane Lynch","United States, Japan",Good,02/22/22
+Ralph Breaks the Internet,2018,PG,23 Nov 2018,112 min,"Animation, Adventure, Comedy","Phil Johnston, Rich Moore","John C. Reilly, Sarah Silverman, Gal Gadot","Japan, United States",Good,02/22/22
+Zootopia,2016,PG,04 Mar 2016,108 min,"Animation, Adventure, Comedy","Byron Howard, Rich Moore, Jared Bush","Ginnifer Goodwin, Jason Bateman, Idris Elba",United States,Good,02/22/22
+Behind the Microphone: Nausicaa of the Valley of the Wind,2005,N/A,22 Feb 2005,N/A,Short,N/A,"Mark Hamill, Shia LaBeouf, Alison Lohman, Edward James Olmos",USA,Good,02/22/22
+Castle in the Sky,1986,PG,19 Jul 1991,125 min,"Animation, Adventure, Family",Hayao Miyazaki,"Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui",Japan,Good,02/22/22
+My Neighbor Totoro,1988,G,13 Jul 1990,86 min,"Animation, Comedy, Family",Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",Japan,Good,02/22/22
+Kiki's Delivery Service,1989,G,20 Dec 1990,103 min,"Animation, Family, Fantasy",Hayao Miyazaki,"Kirsten Dunst, Minami Takayama, Rei Sakuma",Japan,Good,02/22/22
+Only Yesterday,1991,PG,26 Feb 2016,119 min,"Animation, Drama, Romance",Isao Takahata,"Miki Imai, Toshirô Yanagiba, Yoko Honna",Japan,Good,02/23/22
+Porco Rosso,1992,PG,16 Dec 1994,94 min,"Animation, Adventure, Comedy",Hayao Miyazaki,"Shûichirô Moriyama, Tokiko Katô, Bunshi Katsura Vi",Japan,Good,02/25/22
+Pom Poko,1994,PG,25 Dec 1995,119 min,"Animation, Comedy, Drama",Isao Takahata,"Shinchô Kokontei, Makoto Nonomura, Yuriko Ishida",Japan,Good,02/25/22
+IO,2019,TV-14,18 Jan 2019,96 min,"Adventure, Drama, Sci-Fi",Jonathan Helpert,"Margaret Qualley, Anthony Mackie, Danny Huston",United States,Okay,02/26/22
+Whisper of the Heart,1995,G,13 Dec 1996,111 min,"Animation, Drama, Family",Yoshifumi Kondô,"Yoko Honna, Issey Takahashi, Takashi Tachibana",Japan,Good,02/26/22
+Princess Mononoke,1997,PG-13,19 Dec 1997,134 min,"Animation, Action, Adventure",Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka",Japan,Good,02/26/22
+My Neighbors the Yamadas,1999,PG,22 Dec 2000,104 min,"Animation, Comedy, Family",Isao Takahata,"Yukiji Asaoka, Tôru Masuoka, Masako Araki",Japan,Okay,02/27/22
+Spirited Away,2001,PG,28 Mar 2003,125 min,"Animation, Adventure, Family",Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",Japan,Good,02/27/22
+The Cat Returns,2002,G,13 Jul 2005,75 min,"Animation, Adventure, Comedy",Hiroyuki Morita,"Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda",Japan,Good,02/27/22
+Howl's Moving Castle,2004,PG,17 Jun 2005,119 min,"Animation, Adventure, Family",Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",Japan,Good,02/27/22
+Tales from Earthsea,2006,PG-13,29 Jul 2006,115 min,"Animation, Adventure, Fantasy",Gorô Miyazaki,"Timothy Dalton, Willem Dafoe, Mariska Hargitay",Japan,Good,03/01/22
+Ponyo,2008,G,14 Aug 2009,101 min,"Animation, Adventure, Comedy",Hayao Miyazaki,"Cate Blanchett, Matt Damon, Liam Neeson",Japan,Good,03/01/22
+The Secret World of Arrietty,2010,G,17 Feb 2012,94 min,"Animation, Adventure, Drama",Hiromasa Yonebayashi,"Bridgit Mendler, Amy Poehler, Will Arnett",Japan,Good,03/01/22
+From Up on Poppy Hill,2011,PG,16 Jul 2011,91 min,"Animation, Comedy, Drama",Gorô Miyazaki,"Sarah Bolger, Chris Noth, Anton Yelchin",Japan,Good,03/02/22
+The Wind Rises,2013,PG-13,21 Feb 2014,126 min,"Animation, Biography, Drama",Hayao Miyazaki,"Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto",Japan,Good,03/02/22
+The Tale of The Princess Kaguya,2013,PG,23 Nov 2013,137 min,"Animation, Drama, Family",Isao Takahata,"Chloë Grace Moretz, James Caan, Mary Steenburgen",Japan,Good,03/03/22
+When Marnie Was There,2014,PG,07 Aug 2015,103 min,"Animation, Drama, Family",Hiromasa Yonebayashi,"Sara Takatsuki, Kasumi Arimura, Nanako Matsushima",Japan,Good,03/04/22
+Ocean Waves,1993,PG-13,13 Jul 1994,76 min,"Animation, Drama, Romance",Tomomi Mochizuki,"Nobuo Tobita, Toshihiko Seki, Yoko Sakamoto",Japan,Good,03/04/22
+Earwig and the Witch,2020,PG,30 Dec 2020,82 min,"Animation, Adventure, Family",Gorô Miyazaki,"Taylor Henderson, Jazmín Abuín, JB Blanc",Japan,Good,03/06/22
+Paprika,2006,R,22 Jun 2007,90 min,"Animation, Drama, Fantasy",Satoshi Kon,"Megumi Hayashibara, Tôru Emori, Katsunosuke Hori",Japan,Good,03/06/22
+In the Heart of the Sea,2015,PG-13,11 Dec 2015,122 min,"Action, Adventure, Biography",Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson","United States, Australia, Spain",Good,03/06/22
+Perfect Blue,1997,NC-17,28 Feb 1998,81 min,"Animation, Crime, Drama",Satoshi Kon,"Junko Iwao, Rica Matsumoto, Shinpachi Tsuji",Japan,Good,03/08/22
+Child of Kamiari Month,2021,TV-PG,08 Oct 2021,99 min,"Animation, Adventure, Drama",Takana Shirai,"Mia Sinclair Jenness, Mark Allen Jr., Luci Christian",Japan,Good,03/08/22
+Rampage,2018,PG-13,13 Apr 2018,107 min,"Action, Adventure, Sci-Fi",Brad Peyton,"Dwayne Johnson, Naomie Harris, Malin Akerman",United States,Bad,03/08/22
+Pacific Rim,2013,PG-13,12 Jul 2013,131 min,"Action, Adventure, Sci-Fi",Guillermo del Toro,"Idris Elba, Charlie Hunnam, Rinko Kikuchi","United States, Mexico",Okay,03/10/22
+Batman Begins,2005,PG-13,15 Jun 2005,140 min,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe","United States, United Kingdom",Good,03/10/22
+The Dark Knight,2008,PG-13,18 Jul 2008,152 min,"Action, Crime, Drama",Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart","United States, United Kingdom",Good,03/10/22
+The Dark Knight Rises,2012,PG-13,20 Jul 2012,164 min,"Action, Drama, Thriller",Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway","United States, United Kingdom",Good,03/10/22
+In the Heat of the Night,1967,Approved,02 Aug 1967,110 min,"Drama, Mystery, Thriller",Norman Jewison,"Sidney Poitier, Rod Steiger, Warren Oates",United States,Okay,03/11/22
+Cabaret,1972,PG,13 Feb 1972,124 min,"Drama, Music, Musical",Bob Fosse,"Liza Minnelli, Michael York, Helmut Griem",United States,Okay,03/11/22
+Training Day,2001,R,05 Oct 2001,122 min,"Action, Crime, Drama",Antoine Fuqua,"Denzel Washington, Ethan Hawke, Scott Glenn",United States,Good,03/12/22
+Casablanca,1942,PG,23 Jan 1943,102 min,"Drama, Romance, War",Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",United States,Good,03/12/22
+Spider-Man: No Way Home,2021,PG-13,17 Dec 2021,148 min,"Action, Adventure, Fantasy",Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch",United States,Good,03/12/22
+Kenji Miyazawa's Night on the Galactic Railroad,1985,Unrated,07 Feb 1986,113 min,"Animation, Adventure, Drama",Gisaburô Sugii,"Mayumi Tanaka, Chika Sakamoto, Junko Hori",Japan,Good,03/13/22
+Rocky,1976,PG,03 Dec 1976,120 min,"Drama, Sport",John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",United States,Good,03/13/22
+Hamlet,1996,PG-13,25 Dec 1996,242 min,Drama,Kenneth Branagh,"Kenneth Branagh, Julie Christie, Derek Jacobi","United Kingdom, United States",Good,03/13/22
+Moonstruck,1987,PG,15 Jan 1988,102 min,"Comedy, Drama, Romance",Norman Jewison,"Cher, Nicolas Cage, Olympia Dukakis",United States,Good,03/17/22
+Thelma,2017,Not Rated,15 Sep 2017,116 min,"Drama, Fantasy, Horror",Joachim Trier,"Eili Harboe, Kaya Wilkins, Henrik Rafaelsen","Norway, France, Denmark, Sweden",Okay,03/17/22
+East of Eden,1955,PG,10 Apr 1955,118 min,Drama,Elia Kazan,"James Dean, Raymond Massey, Julie Harris",United States,Okay,03/19/22
+Doctor Zhivago,1965,PG-13,31 Dec 1965,197 min,"Drama, Romance, War",David Lean,"Omar Sharif, Julie Christie, Geraldine Chaplin","Italy, United Kingdom, United States",Good,03/20/22
+Mutiny on the Bounty,1935,Passed,12 Jan 1936,132 min,"Adventure, Biography, Drama",Frank Lloyd,"Charles Laughton, Clark Gable, Franchot Tone",United States,Good,03/20/22
+The Batman,2022,PG-13,04 Mar 2022,176 min,"Action, Crime, Drama",Matt Reeves,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright",United States,Good,03/21/22
+The Death of Stalin,2017,R,09 Mar 2018,107 min,"Comedy, Drama, History",Armando Iannucci,"Steve Buscemi, Simon Russell Beale, Jeffrey Tambor","United Kingdom, France, Belgium, Canada, United States",Good,03/24/22
+An American in Paris,1951,Passed,11 Nov 1951,114 min,"Drama, Musical, Romance",Vincente Minnelli,"Gene Kelly, Leslie Caron, Oscar Levant",United States,Okay,03/24/22
+Interview with the Vampire,2022–,TV-MA,02 Oct 2022,N/A,"Drama, Fantasy, Horror",N/A,"Jacob Anderson, Sam Reid, Eric Bogosian",United States,Good,03/25/22
+No Country for Old Men,2007,R,21 Nov 2007,122 min,"Crime, Drama, Thriller","Ethan Coen, Joel Coen","Tommy Lee Jones, Javier Bardem, Josh Brolin",United States,Good,03/25/22
+A Streetcar Named Desire,1951,M/PG,19 Sep 1951,122 min,Drama,Elia Kazan,"Vivien Leigh, Marlon Brando, Kim Hunter",United States,Okay,03/26/22
+Mash,2019,N/A,15 Apr 2019,N/A,"Short, Drama",Tyro Heath,"Mark Wingett, Claire Goose, Jonathan Forbes",United Kingdom,Good,03/31/22
+Network,1976,R,27 Nov 1976,121 min,Drama,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",United States,Good,03/31/22
+Gravity,2013,PG-13,04 Oct 2013,91 min,"Drama, Sci-Fi, Thriller",Alfonso Cuarón,"Sandra Bullock, George Clooney, Ed Harris","United Kingdom, United States",Good,03/31/22
+Death on the Nile,2022,PG-13,11 Feb 2022,127 min,"Crime, Drama, Mystery",Kenneth Branagh,"Tom Bateman, Annette Bening, Kenneth Branagh","United States, United Kingdom",Good,04/01/22
+Life of Pi,2012,PG,21 Nov 2012,127 min,"Adventure, Drama, Fantasy",Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain","United States, Taiwan, United Kingdom, Canada, India, France",Good,04/03/22
+Jackass Forever,2022,R,04 Feb 2022,96 min,"Documentary, Action, Comedy",Jeff Tremaine,"Johnny Knoxville, Steve-O, Chris Pontius",United States,Good,04/04/22
+Limitless,2011,PG-13,18 Mar 2011,105 min,"Sci-Fi, Thriller",Neil Burger,"Bradley Cooper, Anna Friel, Abbie Cornish",United States,Okay,04/09/22
+Kill Bill: Vol. 1,2003,R,10 Oct 2003,111 min,"Action, Crime, Thriller",Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah",United States,Good,04/10/22
+Kill Bill: Vol. 2,2004,R,16 Apr 2004,137 min,"Action, Crime, Thriller",Quentin Tarantino,"Uma Thurman, David Carradine, Michael Madsen",United States,Good,04/10/22
+Her,2013,R,10 Jan 2014,126 min,"Drama, Romance, Sci-Fi",Spike Jonze,"Joaquin Phoenix, Amy Adams, Scarlett Johansson",United States,Good,04/11/22
+The Animatrix,2003,Unrated,21 Mar 2003,100 min,"Animation, Action, Sci-Fi","Peter Chung, Andrew R. Jones, Yoshiaki Kawajiri, Takeshi Koike, Mahiro Maeda, Kôji Morimoto, Shin'ichirô Watanabe","James Arnold Taylor, Julia Fletcher, Dwight Schultz","United States, Japan",Good,04/11/22
+The Imitation Game,2014,PG-13,25 Dec 2014,114 min,"Biography, Drama, Thriller",Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode","United Kingdom, United States",Good,04/14/22
+The Girl with the Dragon Tattoo,2011,R,21 Dec 2011,158 min,"Crime, Drama, Mystery",David Fincher,"Daniel Craig, Rooney Mara, Christopher Plummer","United States, Sweden, Norway",Good,04/14/22
+How to Train Your Dragon,2010,PG,26 Mar 2010,98 min,"Animation, Action, Adventure","Dean DeBlois, Chris Sanders","Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse","United States, France",Good,04/14/22
+How to Train Your Dragon 2,2014,PG,13 Jun 2014,102 min,"Animation, Action, Adventure",Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler","United States, India",Good,04/15/22
+Evangelion: 1.0 You Are (Not) Alone,2007,PG-13,01 Sep 2007,98 min,"Animation, Action, Drama","Masayuki, Kazuya Tsurumaki, Hideaki Anno","Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi",Japan,Good,04/17/22
+Evangelion: 2.0 You Can (Not) Advance,2009,TV-14,27 Jun 2009,112 min,"Animation, Action, Drama","Masayuki, Kazuya Tsurumaki, Hideaki Anno","Kotono Mitsuishi, Megumi Ogata, Megumi Hayashibara",Japan,Good,04/17/22
+Evangelion: 3.0 You Can (Not) Redo,2012,TV-14,17 Nov 2012,96 min,"Animation, Action, Drama","Mahiro Maeda, Masayuki, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura",Japan,Good,04/17/22
+Evangelion: 3.0+1.01 Thrice Upon a Time,2021,TV-MA,13 Aug 2021,154 min,"Animation, Action, Drama","Mahiro Maeda, Katsuichi Nakayama, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura",Japan,Good,04/17/22
+I Don't Feel at Home in This World Anymore,2017,TV-MA,24 Feb 2017,93 min,"Comedy, Crime, Drama",Macon Blair,"Melanie Lynskey, Chris Doubek, Marilyn Faith Hickey",United States,Okay,04/23/22
+Night Crawler: The Brett Myers Story,2009,N/A,13 Dec 2009,12 min,Short,Eric Tschanz,"Brett Myers, George McGinnis, Aaron Hubbard",United States,Okay,04/23/22
+Django Unchained,2012,R,25 Dec 2012,165 min,"Drama, Western",Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",United States,Good,04/27/22
+Snakes on a Plane,2006,R,18 Aug 2006,105 min,"Action, Adventure, Crime",David R. Ellis,"Samuel L. Jackson, Julianna Margulies, Nathan Phillips","United States, Germany",Bad,04/27/22
+The Expendables,2010,R,13 Aug 2010,103 min,"Action, Adventure, Thriller",Sylvester Stallone,"Sylvester Stallone, Jason Statham, Jet Li","United States, Bulgaria, Spain, Germany",Bad,04/29/22
+The Fast and the Furious: Tokyo Drift,2006,PG-13,16 Jun 2006,104 min,"Action, Crime, Thriller",Justin Lin,"Lucas Black, Zachery Ty Bryan, Shad Moss","United States, Germany, Japan",Bad,04/29/22
+Resident Evil,2002,R,15 Mar 2002,100 min,"Action, Horror, Sci-Fi",Paul W.S. Anderson,"Milla Jovovich, Michelle Rodriguez, Ryan McCluskey","United Kingdom, Germany",Okay,04/30/22
+Resident Evil: Apocalypse,2004,R,10 Sep 2004,94 min,"Action, Horror, Sci-Fi",Alexander Witt,"Milla Jovovich, Sienna Guillory, Eric Mabius","Germany, United Kingdom, United States, Canada, France",Okay,04/30/22
+Resident Evil: Extinction,2007,R,21 Sep 2007,94 min,"Action, Horror, Sci-Fi",Russell Mulcahy,"Milla Jovovich, Ali Larter, Oded Fehr","Germany, United States, Mexico, Canada",Okay,04/30/22
+Resident Evil: Afterlife,2010,R,10 Sep 2010,96 min,"Action, Horror, Sci-Fi",Paul W.S. Anderson,"Milla Jovovich, Ali Larter, Wentworth Miller","Germany, Canada, United States",Okay,04/30/22
+Resident Evil: Retribution,2012,R,14 Sep 2012,95 min,"Action, Horror, Sci-Fi",Paul W.S. Anderson,"Milla Jovovich, Sienna Guillory, Michelle Rodriguez","Germany, Canada, United States",Okay,04/30/22
+Uncharted,2022,PG-13,18 Feb 2022,116 min,"Action, Adventure",Ruben Fleischer,"Tom Holland, Mark Wahlberg, Antonio Banderas","Spain, United States",Okay,04/30/22
+Pride,2014,R,12 Sep 2014,119 min,"Biography, Comedy, Drama",Matthew Warchus,"Bill Nighy, Imelda Staunton, Dominic West","United Kingdom, France, United States",Good,05/01/22
+Anna Karenina,2012,R,07 Sep 2012,129 min,"Drama, Romance",Joe Wright,"Keira Knightley, Jude Law, Aaron Taylor-Johnson","United Kingdom, United States",Good,05/01/22
+The Rugrats Movie,1998,G,20 Nov 1998,79 min,"Animation, Adventure, Comedy","Igor Kovalyov, Norton Virgien","Elizabeth Daily, Christine Cavanaugh, Kath Soucie","United States, United Kingdom",Good,05/01/22
+Rugrats in Paris,2000,G,17 Nov 2000,78 min,"Animation, Adventure, Comedy","Stig Bergqvist, Paul Demeyer","Christine Cavanaugh, Elizabeth Daily, Cheryl Chase","Germany, United States",Good,05/01/22
+The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,19 Dec 2001,178 min,"Action, Adventure, Drama",Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom","New Zealand, United States",Good,05/03/22
+Underworld,2003,R,19 Sep 2003,121 min,"Action, Fantasy, Thriller",Len Wiseman,"Kate Beckinsale, Scott Speedman, Shane Brolly","United States, United Kingdom, Germany, Hungary",Good,05/04/22
+Underworld: Rise of the Lycans,2009,R,23 Jan 2009,92 min,"Action, Fantasy, Thriller",Patrick Tatopoulos,"Rhona Mitra, Michael Sheen, Bill Nighy","United States, New Zealand, Australia",Good,05/04/22
+Underworld: Awakening,2012,R,20 Jan 2012,88 min,"Action, Fantasy, Horror","Måns Mårlind, Björn Stein","Kate Beckinsale, Michael Ealy, India Eisley","United States, Canada",Good,05/04/22
+47 Ronin,2013,PG-13,25 Dec 2013,128 min,"Action, Drama, Fantasy",Carl Rinsch,"Keanu Reeves, Hiroyuki Sanada, Kô Shibasaki","United States, United Kingdom, Japan, Hungary",Okay,05/05/22
+Children of the Sea,2019,Not Rated,05 Dec 2019,111 min,"Animation, Adventure, Fantasy",Ayumu Watanabe,"Mana Ashida, Hiiro Ishibashi, Seishû Uragami","Japan, China, Hong Kong",Good,05/05/22
+Sonic the Hedgehog 2,2022,PG,08 Apr 2022,122 min,"Action, Adventure, Comedy",Jeff Fowler,"James Marsden, Jim Carrey, Ben Schwartz","United States, Japan",Okay,05/05/22
+Batman: Hush,2019,PG-13,20 Jul 2019,81 min,"Animation, Action, Adventure, Crime, Drama, Mystery, Romance, Sci-Fi, Thriller",Justin Copeland,"Jason O'Mara, Jennifer Morrison, Stuart Allan, Sachie Alessio",USA,Okay,05/07/22
+Doctor Strange in the Multiverse of Madness,2022,PG-13,06 May 2022,126 min,"Action, Adventure, Fantasy",Sam Raimi,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor",United States,Good,05/07/22
+Words Bubble Up Like Soda Pop,2020,TV-PG,22 Jul 2021,87 min,"Animation, Drama, Music",Kyohei Ishiguro,"Somegorô Ichikawa, Hana Sugisaki, Megumi Han",Japan,Okay,05/08/22
+Promare,2019,PG-13,24 May 2019,111 min,"Animation, Action, Adventure",Hiroyuki Imaishi,"John Eric Bentley, Steve Blum, Johnny Yong Bosch",Japan,Okay,05/08/22
+Batman Ninja,2018,PG-13,24 Apr 2018,85 min,"Animation, Action, Sci-Fi",Junpei Mizusaki,"Kôichi Yamadera, Wataru Takagi, Ai Kakuma","Japan, United States",Good,05/09/22
+Bubble,2005,R,27 Jan 2006,73 min,"Crime, Drama, Mystery",Steven Soderbergh,"Debbie Doebereiner, Omar Cowan, Dustin James Ashley",United States,Okay,05/10/22
+The Lord of the Rings: The Two Towers,2002,PG-13,18 Dec 2002,179 min,"Action, Adventure, Drama",Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen","New Zealand, United States",Good,05/10/22
+National Geographic: Beyond the Movie - The Lord of the Rings: Return of the King,2003,Not Rated,12 Dec 2003,52 min,Documentary,N/A,"John Rhys-Davies, Elijah Wood, Hugo Weaving",United States,Good,05/12/22
+Dracula Untold,2014,PG-13,10 Oct 2014,92 min,"Action, Drama, Fantasy",Gary Shore,"Luke Evans, Dominic Cooper, Sarah Gadon","United States, Japan",Bad,05/12/22
+The Girl Who Leapt Through Time,2006,TV-PG,15 Jul 2006,98 min,"Animation, Adventure, Comedy",Mamoru Hosoda,"Riisa Naka, Takuya Ishida, Mitsutaka Itakura",Japan,Good,05/15/22
+Adam by Eve: A Live in Animation,2022,TV-14,15 Mar 2022,58 min,"Animation, Music",N/A,"Hanon, Ano, Eve",Japan,Good,05/15/22
+Morbius,2022,PG-13,01 Apr 2022,104 min,"Action, Adventure, Horror",Daniel Espinosa,"Jared Leto, Matt Smith, Adria Arjona",United States,Bad,05/19/22
+Everything Everywhere All at Once,2022,R,08 Apr 2022,139 min,"Action, Adventure, Comedy","Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis",United States,Good,05/19/22
+Fantastic Beasts and Where to Find Them,2016,PG-13,18 Nov 2016,132 min,"Adventure, Family, Fantasy",David Yates,"Eddie Redmayne, Katherine Waterston, Alison Sudol","United Kingdom, United States",Okay,05/20/22
+Fantastic Beasts: The Crimes of Grindelwald,2018,PG-13,16 Nov 2018,134 min,"Adventure, Family, Fantasy",David Yates,"Eddie Redmayne, Katherine Waterston, Dan Fogler","United Kingdom, United States",Okay,05/20/22
+The Northman,2022,R,22 Apr 2022,137 min,"Action, Adventure, Drama",Robert Eggers,"Alexander Skarsgård, Nicole Kidman, Claes Bang","United States, China, United Kingdom",Okay,05/21/22
+Dont Look Up,2018,N/A,N/A,N/A,Sci-Fi,Hasraf Dulull,N/A,UK,Good,05/22/22
+Moonshot,2022,PG-13,31 Mar 2022,104 min,"Comedy, Romance, Sci-Fi",Christopher Winterbauer,"Cole Sprouse, Zach Braff, Peter Woodward",United States,Okay,05/22/22
+Fantastic Beasts: The Secrets of Dumbledore,2022,PG-13,15 Apr 2022,142 min,"Adventure, Family, Fantasy",David Yates,"Eddie Redmayne, Jude Law, Ezra Miller","United Kingdom, United States",Okay,05/25/22
+Chip 'n Dale: Rescue Rangers,2022,PG,20 May 2022,97 min,"Animation, Action, Adventure",Akiva Schaffer,"Andy Samberg, John Mulaney, KiKi Layne","United States, Canada, Philippines",Good,05/26/22
+I'm Thinking of Ending Things,2020,R,04 Sep 2020,134 min,"Drama, Thriller",Charlie Kaufman,"Jesse Plemons, Jessie Buckley, Toni Collette",United States,Okay,05/31/22
+Fireworks,1997,N/A,20 Mar 1998,103 min,"Crime, Drama, Romance",Takeshi Kitano,"Takeshi Kitano, Kayoko Kishimoto, Ren Ôsugi",Japan,Okay,06/04/22
+Contagion,2011,PG-13,09 Sep 2011,106 min,"Drama, Thriller",Steven Soderbergh,"Matt Damon, Kate Winslet, Jude Law","United Arab Emirates, United States",Okay,06/04/22
+Borat Subsequent Moviefilm,2020,R,23 Oct 2020,95 min,Comedy,Jason Woliner,"Sacha Baron Cohen, Maria Bakalova, Tom Hanks","United States, United Kingdom, Romania",Good,06/04/22
+The Grand Budapest Hotel,2014,R,28 Mar 2014,99 min,"Adventure, Comedy, Crime",Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric","United States, Germany",Good,06/09/22
+Penguins of Madagascar,2014,PG,26 Nov 2014,92 min,"Animation, Action, Adventure","Eric Darnell, Simon J. Smith","Tom McGrath, Chris Miller, Christopher Knights","United States, India",Good,06/09/22
+"Crouching Tiger, Hidden Dragon",2000,PG-13,12 Jan 2001,120 min,"Action, Adventure, Drama",Ang Lee,"Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang","Taiwan, Hong Kong, United States, China",Good,06/12/22
+Deep Water,2022,R,18 Mar 2022,115 min,"Drama, Mystery, Thriller",Adrian Lyne,"Ben Affleck, Ana de Armas, Tracy Letts","United States, Australia",Good,06/12/22
+Napoleon Dynamite,2004,PG,27 Aug 2004,96 min,Comedy,Jared Hess,"Jon Heder, Efren Ramirez, Jon Gries",United States,Good,06/13/22
+National Treasure,2004,PG,19 Nov 2004,131 min,"Action, Adventure, Mystery",Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha",United States,Okay,06/17/22
+Get Smart,2008,PG-13,20 Jun 2008,110 min,"Action, Adventure, Comedy",Peter Segal,"Steve Carell, Anne Hathaway, Alan Arkin",United States,Okay,06/18/22
+"10,000 BC",2008,PG-13,07 Mar 2008,109 min,"Action, Adventure, Drama",Roland Emmerich,"Camilla Belle, Steven Strait, Marco Khan","United States, South Africa",Bad,06/19/22
+The Croods: A New Age,2020,PG,25 Nov 2020,95 min,"Animation, Adventure, Comedy",Joel Crawford,"Nicolas Cage, Emma Stone, Ryan Reynolds",United States,Okay,06/19/22
+Raw,2016,R,15 Mar 2017,99 min,"Drama, Horror",Julia Ducournau,"Garance Marillier, Ella Rumpf, Rabah Nait Oufella","France, Belgium",Good,06/19/22
+La La Land,2016,PG-13,25 Dec 2016,128 min,"Comedy, Drama, Music",Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt","United States, Hong Kong",Good,06/23/22
+The Year of the Everlasting Storm,2021,N/A,09 Sep 2021,115 min,"Drama, Mystery","Anthony Chen, David Lowery, Jafar Panahi","Yay Yay Bobby Jones, Catherine Machovsky, Yu Zhang","China, Thailand, United States",Okay,06/24/22
+National Treasure: Book of Secrets,2007,PG,21 Dec 2007,124 min,"Action, Adventure, Mystery",Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha",United States,Okay,06/24/22
+Sing,2016,PG,21 Dec 2016,108 min,"Animation, Comedy, Family","Garth Jennings, Christophe Lourdelet","Matthew McConaughey, Reese Witherspoon, Seth MacFarlane","Japan, United States, France",Good,06/26/22
+Beavis and Butt-Head Do the Universe,2022,TV-14,23 Jun 2022,87 min,"Animation, Comedy, Sci-Fi","Albert Calleros, John Rice","Mike Judge, Gary Cole, Nat Faxon",United States,Good,06/26/22
+Sing 2,2021,PG,22 Dec 2021,110 min,"Animation, Adventure, Comedy","Garth Jennings, Christophe Lourdelet","Matthew McConaughey, Reese Witherspoon, Scarlett Johansson","United States, Japan",Good,06/26/22
+Jurassic World,2015,PG-13,12 Jun 2015,124 min,"Action, Adventure, Sci-Fi",Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins",United States,Good,07/07/22
+Jurassic World: Fallen Kingdom,2018,PG-13,22 Jun 2018,128 min,"Action, Adventure, Sci-Fi",J.A. Bayona,"Chris Pratt, Bryce Dallas Howard, Rafe Spall","United States, China",Good,07/07/22
+Jurassic World Dominion,2022,PG-13,10 Jun 2022,147 min,"Action, Adventure, Sci-Fi",Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Laura Dern","United States, China, Malta",Okay,07/07/22
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,09 Jul 2003,143 min,"Action, Adventure, Fantasy",Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom",United States,Good,07/10/22
+Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,07 Jul 2006,151 min,"Action, Adventure, Fantasy",Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley",United States,Good,07/10/22
+Pirates of the Caribbean: At World's End,2007,PG-13,25 May 2007,169 min,"Action, Adventure, Fantasy",Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley",United States,Good,07/10/22
+The Sea Beast,2022,PG,08 Jul 2022,115 min,"Animation, Adventure, Comedy",Chris Williams,"Karl Urban, Zaris-Angel Hator, Jared Harris","Canada, United States",Good,07/10/22
+Pirates of the Caribbean: On Stranger Tides,2011,PG-13,20 May 2011,136 min,"Action, Adventure, Fantasy",Rob Marshall,"Johnny Depp, Penélope Cruz, Ian McShane","United States, United Kingdom",Okay,07/11/22
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,26 May 2017,129 min,"Action, Adventure, Fantasy","Joachim Rønning, Espen Sandberg","Johnny Depp, Geoffrey Rush, Javier Bardem","United States, Australia, United Kingdom, Canada",Okay,07/11/22
+The Bob's Burgers Movie,2022,PG-13,27 May 2022,102 min,"Animation, Adventure, Comedy","Loren Bouchard, Bernard Derriman","H. Jon Benjamin, Kristen Schaal, Dan Mintz","Ireland, United States, China, Australia, United Kingdom, Canada, Taiwan, Mexico, South Korea, Denmark",Good,07/16/22
+Employee of the Month,2006,PG-13,06 Oct 2006,103 min,"Comedy, Romance",Greg Coolidge,"Jessica Simpson, Dane Cook, Dax Shepard",United States,Good,07/16/22
+Lightyear,2022,PG,17 Jun 2022,105 min,"Animation, Action, Adventure",Angus MacLane,"Chris Evans, Keke Palmer, Peter Sohn","United States, Japan",Okay,07/17/22
+Bohemian Rhapsody,2018,PG-13,02 Nov 2018,134 min,"Biography, Drama, Music",Bryan Singer,"Rami Malek, Lucy Boynton, Gwilym Lee","United Kingdom, United States",Good,07/21/22
+Drinking Buddies,2013,R,25 Jul 2013,90 min,"Comedy, Drama, Romance",Joe Swanberg,"Olivia Wilde, Jake Johnson, Anna Kendrick",United States,Good,07/21/22
+Delicious,2021,N/A,08 Sep 2021,112 min,"Comedy, Drama, History",Éric Besnard,"Grégory Gadebois, Isabelle Carré, Benjamin Lavernhe","France, Belgium",Good,07/22/22
+Ultrasound,2021,N/A,11 Mar 2022,103 min,"Drama, Mystery, Sci-Fi",Rob Schroeder,"Vincent Kartheiser, Chelsea Lopez, Breeda Wool",United States,Okay,07/23/22
+Dead Poets Society,1989,PG,09 Jun 1989,128 min,"Comedy, Drama",Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",United States,Good,07/24/22
+Together Together,2021,R,23 Apr 2021,90 min,"Comedy, Drama",Nikole Beckwith,"Patti Harrison, Ed Helms, Rosalind Chao",United States,Good,07/24/22
+Begin Again,2013,R,11 Jul 2014,104 min,"Comedy, Drama, Music",John Carney,"Keira Knightley, Mark Ruffalo, Adam Levine",United States,Good,07/24/22
+Nomadland,2020,R,19 Feb 2021,107 min,Drama,Chloé Zhao,"Frances McDormand, David Strathairn, Linda May",United States,Good,07/25/22
+New Year's Eve,2011,PG-13,09 Dec 2011,118 min,"Comedy, Romance",Garry Marshall,"Sarah Jessica Parker, Jessica Biel, Ashton Kutcher",United States,Bad,07/25/22
+The Gray Man,2022,PG-13,22 Jul 2022,122 min,"Action, Thriller","Anthony Russo, Joe Russo","Ryan Gosling, Chris Evans, Ana de Armas","United States, Czech Republic",Okay,07/26/22
+The Great Gatsby,2013,PG-13,10 May 2013,143 min,"Drama, Romance",Baz Luhrmann,"Leonardo DiCaprio, Carey Mulligan, Joel Edgerton","Australia, United States",Okay,07/27/22
+Italian Studies,2021,N/A,14 Jan 2022,81 min,Drama,Adam Leon,"Vanessa Kirby, David Ajala, Annika Wahlsten",United States,Okay,07/30/22
+All Good Things,2010,R,03 Dec 2010,101 min,"Crime, Drama, Mystery",Andrew Jarecki,"Ryan Gosling, Kirsten Dunst, Frank Langella",United States,Okay,07/30/22
+Mean Girls,2004,PG-13,30 Apr 2004,97 min,Comedy,Mark Waters,"Lindsay Lohan, Jonathan Bennett, Rachel McAdams","United States, Canada",Good,07/30/22
+The Pursuit of Happyness,2006,PG-13,15 Dec 2006,117 min,"Biography, Drama",Gabriele Muccino,"Will Smith, Thandiwe Newton, Jaden Smith",United States,Good,07/31/22
+21,2008,PG-13,28 Mar 2008,123 min,"Crime, Drama, History",Robert Luketic,"Jim Sturgess, Kate Bosworth, Kevin Spacey",United States,Good,07/31/22
+The Worst Person in the World,2021,R,13 Oct 2021,128 min,"Comedy, Drama, Romance",Joachim Trier,"Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum","Norway, France, Sweden, Denmark",Good,07/31/22
+Like Crazy,2011,PG-13,27 Jan 2012,86 min,"Drama, Romance",Drake Doremus,"Felicity Jones, Anton Yelchin, Jennifer Lawrence",United States,Good,08/01/22
+2001: A Space Odyssey,1968,G,12 May 1968,149 min,"Adventure, Sci-Fi",Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester","United Kingdom, United States",Good,08/04/22
+Outside In,2017,Not Rated,03 Apr 2018,109 min,Drama,Lynn Shelton,"Edie Falco, Jay Duplass, Louis Hobson",United States,Okay,08/04/22
+Belle,2013,PG,13 Jun 2014,100 min,"Biography, Drama, Romance",Amma Asante,"Gugu Mbatha-Raw, Matthew Goode, Emily Watson",United Kingdom,Okay,08/05/22
+Prey,2022,R,05 Aug 2022,100 min,"Action, Adventure, Drama",Dan Trachtenberg,"Amber Midthunder, Dakota Beavers, Dane DiLiegro",United States,Okay,08/05/22
+Admission,2013,PG-13,22 Mar 2013,107 min,"Comedy, Drama, Romance",Paul Weitz,"Tina Fey, Paul Rudd, Nat Wolff",United States,Okay,08/07/22
+Dinner for Schmucks,2010,PG-13,30 Jul 2010,114 min,Comedy,Jay Roach,"Steve Carell, Paul Rudd, Stephanie Szostak",United States,Okay,08/07/22
+Minions: The Rise of Gru,2022,PG,01 Jul 2022,87 min,"Animation, Adventure, Comedy","Kyle Balda, Brad Ableson, Jonathan del Val","Steve Carell, Pierre Coffin, Alan Arkin","United States, France",Good,08/07/22
+Someone Great,2019,R,19 Apr 2019,92 min,"Comedy, Romance",Jennifer Kaytin Robinson,"Gina Rodriguez, LaKeith Stanfield, Brittany Snow",United States,Okay,08/07/22
+"Crazy, Stupid, Love",2022,N/A,27 Oct 2022,107 min,"Comedy, Drama, Romance",Ainun Ridho,"Dimas Anggara, Susan Sameh, Chicco Kurniawan",Indonesia,Good,08/08/22
+Holidate,2020,TV-MA,28 Oct 2020,104 min,"Comedy, Romance",John Whitesell,"Emma Roberts, Luke Bracey, Kristin Chenoweth",United States,Okay,08/10/22
+Love Hard,2021,TV-MA,05 Nov 2021,104 min,"Comedy, Romance",Hernán Jiménez,"Nina Dobrev, Jimmy O. Yang, Darren Barnet",United States,Okay,08/10/22
+Can You Keep a Secret,1976,N/A,23 Aug 1976,N/A,Drama,Alastair Reid,"Michael Bryant, Mary Peach, Sheila Burrell, Peter Tuddenham",UK,Bad,08/11/22
+Little Italy,2018,R,21 Sep 2018,102 min,"Comedy, Romance",Donald Petrie,"Emma Roberts, Hayden Christensen, Danny Aiello","Canada, United States",Bad,08/11/22
+Seeking a Friend for the End of the World,2012,R,22 Jun 2012,101 min,"Adventure, Comedy, Drama",Lorene Scafaria,"Steve Carell, Keira Knightley, Melanie Lynskey",United States,Good,08/12/22
+Ip Man,2008,R,12 Dec 2008,106 min,"Action, Biography, Drama",Wilson Yip,"Donnie Yen, Simon Yam, Siu-Wong Fan","Hong Kong, China",Good,08/12/22
+The Nice Guys,2016,R,20 May 2016,116 min,"Action, Comedy, Crime",Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice",United States,Okay,08/13/22
+Horse Girl,2020,R,07 Feb 2020,103 min,"Drama, Mystery, Thriller",Jeff Baena,"Alison Brie, Molly Shannon, Goldenite",United States,Okay,08/13/22
+Shaolin Soccer,2001,PG,05 Jul 2001,87 min,"Action, Comedy, Fantasy",Stephen Chow,"Stephen Chow, Wei Zhao, Yat-Fei Wong","Hong Kong, China",Okay,08/13/22
+6 Years,2015,Not Rated,18 Aug 2015,79 min,"Drama, Romance",Hannah Fidell,"Taissa Farmiga, Ben Rosenfield, Lindsay Burdge",United States,Okay,08/13/22
+Paradise Hills,2019,TV-14,25 Oct 2019,95 min,"Fantasy, Mystery, Sci-Fi",Alice Waddington,"Emma Roberts, Danielle Macdonald, Awkwafina","Spain, United States",Bad,08/14/22
+The Informer,2019,R,30 Aug 2019,113 min,"Action, Crime, Drama",Andrea Di Stefano,"Joel Kinnaman, Rosamund Pike, Common","United Kingdom, Canada, United States",Okay,08/14/22
+How to Talk to Girls at Parties,2017,R,25 May 2018,102 min,"Comedy, Music, Romance",John Cameron Mitchell,"Elle Fanning, Alex Sharp, Nicole Kidman","United Kingdom, United States",Okay,08/14/22
+127 Hours,2010,R,28 Jan 2011,94 min,"Biography, Drama",Danny Boyle,"James Franco, Amber Tamblyn, Kate Mara","United States, United Kingdom, France",Okay,08/14/22
+Nothing to Hide,2018,TV-MA,17 Oct 2018,90 min,"Comedy, Drama",Fred Cavayé,"Bérénice Bejo, Suzanne Clément, Stéphane De Groodt","France, Belgium",Good,08/15/22
+Wounds,2019,R,18 Oct 2019,95 min,"Drama, Horror, Mystery",Babak Anvari,"Armie Hammer, Zazie Beetz, Karl Glusman","United States, United Kingdom",Bad,08/17/22
+Ip Man 2,2010,R,29 Apr 2010,108 min,"Action, Biography, Drama",Wilson Yip,"Donnie Yen, Xiaoming Huang, Sammo Kam-Bo Hung","Hong Kong, China",Good,08/17/22
+All My Friends Hate Me,2021,R,11 Mar 2022,93 min,"Comedy, Horror",Andrew Gaynord,"Georgina Campbell, Christopher Fairbank, Dustin Demri-Burns",United Kingdom,Okay,08/18/22
+Ip Man 3,2015,PG-13,24 Dec 2015,105 min,"Action, Biography, Drama",Wilson Yip,"Donnie Yen, Lynn Xiong, Jin Zhang","China, Hong Kong",Good,08/19/22
+"Yes, God, Yes",2019,R,24 Jul 2020,78 min,"Comedy, Drama",Karen Maine,"Natalia Dyer, Timothy Simons, Wolfgang Novogratz",United States,Bad,08/21/22
+Day Shift,2022,R,12 Aug 2022,113 min,"Action, Comedy, Fantasy",J.J. Perry,"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo",United States,Good,08/21/22
+Five Feet Apart,2019,PG-13,15 Mar 2019,116 min,"Drama, Romance",Justin Baldoni,"Haley Lu Richardson, Cole Sprouse, Moises Arias",United States,Bad,08/23/22
+Look Both Ways,2022,TV-14,17 Aug 2022,110 min,"Comedy, Drama, Romance",Wanuri Kahiu,"Lili Reinhart, Danny Ramirez, Aisha Dee",United States,Okay,08/24/22
+Toscana,2022,TV-MA,18 May 2022,90 min,"Drama, Romance",Mehdi Avaz,"Christopher, Sebastian Jessen, Cristiana Dell'Anna",Denmark,Okay,08/24/22
+That's Amor,2022,PG-13,25 Aug 2022,96 min,"Comedy, Romance",Shaun Paul Piccinino,"Riley Dandy, Isaac Gonzalez Rossi, Nancy Lenehan",United States,Bad,08/27/22
+Rocket Science,2007,R,28 Sep 2007,101 min,"Comedy, Drama",Jeffrey Blitz,"Reece Thompson, Anna Kendrick, Nicholas D'Agosto",United States,Good,08/27/22
+Under the Skin,2013,R,18 Apr 2014,108 min,"Drama, Horror, Mystery",Jonathan Glazer,"Scarlett Johansson, Jeremy McWilliams, Lynsey Taylor Mackay","United Kingdom, Switzerland",Okay,08/28/22
+The Internship,2013,PG-13,07 Jun 2013,119 min,Comedy,Shawn Levy,"Vince Vaughn, Owen Wilson, Rose Byrne",United States,Good,09/01/22
+Loving Adults,2022,TV-MA,26 Aug 2022,104 min,"Crime, Drama, Thriller",Barbara Topsøe-Rothenborg,"Dar Salim, Sonja Richter, Sus Noreen Jondahl Wilkins",Denmark,Okay,09/01/22
+Top Gun: Maverick,2022,PG-13,27 May 2022,130 min,"Action, Drama",Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller",United States,Okay,09/01/22
+This Is 40,2012,R,21 Dec 2012,134 min,"Comedy, Drama, Romance",Judd Apatow,"Paul Rudd, Leslie Mann, Maude Apatow",United States,Okay,09/05/22
+Anaïs in Love,2021,N/A,06 May 2022,98 min,"Comedy, Drama, Romance",Charline Bourgeois-Tacquet,"Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès",France,Okay,09/06/22
+Diggers,2006,R,30 Mar 2007,96 min,"Comedy, Drama",Katherine Dieckmann,"Paul Rudd, Ken Marino, Maura Tierney",United States,Okay,09/07/22
+Dan in Real Life,2007,PG-13,26 Oct 2007,98 min,"Comedy, Drama, Romance",Peter Hedges,"Steve Carell, Juliette Binoche, Dane Cook",United States,Good,09/08/22
+Bad Luck Banging or Loony Porn,2021,Not Rated,13 May 2021,106 min,"Comedy, Drama",Radu Jude,"Katia Pascariu, Claudia Ieremia, Nicodim Ungureanu","Romania, Luxembourg, Czech Republic, Croatia, Switzerland, United Kingdom",Bad,09/08/22
+Thor: Love and Thunder,2022,PG-13,08 Jul 2022,118 min,"Action, Adventure, Comedy",Taika Waititi,"Chris Hemsworth, Natalie Portman, Christian Bale","Australia, United States",Good,09/09/22
+The Darjeeling Limited,2007,R,26 Oct 2007,91 min,"Adventure, Comedy, Drama",Wes Anderson,"Owen Wilson, Adrien Brody, Jason Schwartzman","United States, India",Okay,09/11/22
+Mary and the Witch's Flower,2017,PG,08 Jul 2017,103 min,"Animation, Adventure, Family",Hiromasa Yonebayashi,"Hana Sugisaki, Ryunosuke Kamiki, Yûki Amami",Japan,Okay,09/11/22
+The Man Who Killed Don Quixote,2018,Not Rated,19 Apr 2019,132 min,"Adventure, Comedy, Drama",Terry Gilliam,"José Luis Ferrer, Ismael Fritschi, Juan López-Tagle","United States, Spain, France, Belgium, Portugal, United Kingdom",Good,09/11/22
+"Jeff, Who Lives at Home",2011,R,30 Mar 2012,83 min,"Comedy, Drama","Jay Duplass, Mark Duplass","Jason Segel, Ed Helms, Judy Greer",United States,Okay,09/12/22
+Clueless,1995,PG-13,19 Jul 1995,97 min,"Comedy, Romance",Amy Heckerling,"Alicia Silverstone, Stacey Dash, Brittany Murphy",United States,Okay,09/12/22
+Sorry to Bother You,2018,R,13 Jul 2018,112 min,"Comedy, Drama, Fantasy",Boots Riley,"LaKeith Stanfield, Tessa Thompson, Jermaine Fowler",United States,Okay,09/15/22
+Hail Ceasar with Joe Pantoliano,2014,N/A,18 Aug 2014,13 min,Short,N/A,Joe Pantoliano,UK,Okay,09/15/22
+Chef,2014,R,30 May 2014,114 min,"Adventure, Comedy, Drama",Jon Favreau,"Jon Favreau, Robert Downey Jr., Scarlett Johansson",United States,Good,09/15/22
+Pinocchio,1940,G,23 Feb 1940,88 min,"Animation, Adventure, Comedy","Norman Ferguson, T. Hee, Wilfred Jackson","Dickie Jones, Christian Rub, Mel Blanc",United States,Bad,09/15/22
+Bad Words,2013,R,28 Mar 2014,89 min,"Comedy, Drama",Jason Bateman,"Jason Bateman, Kathryn Hahn, Allison Janney",United States,Okay,09/20/22
+Everything Must Go,2010,R,14 Oct 2011,97 min,Drama,Dan Rush,"Will Ferrell, Rebecca Hall, Christopher Jordan Wallace",United States,Okay,09/21/22
+Three Thousand Years of Longing,2022,R,26 Aug 2022,108 min,"Drama, Fantasy, Romance",George Miller,"Tilda Swinton, Idris Elba, Erdil Yasaroglu","Australia, United States",Okay,09/23/22
+Drunken Master,1978,PG-13,05 Oct 1978,111 min,"Action, Comedy",Woo-Ping Yuen,"Jackie Chan, Siu-Tin Yuen, Jeong-lee Hwang",Hong Kong,Good,09/24/22
+Do Revenge,2022,TV-MA,16 Sep 2022,118 min,Comedy,Jennifer Kaytin Robinson,"Camila Mendes, Maya Hawke, Austin Abrams",United States,Bad,09/24/22
+Iron Sky,2012,R,04 Apr 2012,93 min,"Action, Adventure, Comedy",Timo Vuorensola,"Julia Dietze, Christopher Kirby, Götz Otto","Finland, Germany, Australia, France, Norway, Belgium, Denmark, United Kingdom",Bad,09/29/22
+Juno,2007,PG-13,25 Dec 2007,96 min,"Comedy, Drama",Jason Reitman,"Elliot Page, Michael Cera, Jennifer Garner",United States,Good,10/01/22
+House of Gucci,2021,R,24 Nov 2021,158 min,"Biography, Crime, Drama",Ridley Scott,"Lady Gaga, Adam Driver, Al Pacino","United States, Canada",Good,10/02/22
+Hardcore Henry,2015,R,08 Apr 2016,96 min,"Action, Adventure, Sci-Fi",Ilya Naishuller,"Sharlto Copley, Tim Roth, Haley Bennett","Russia, United States, China",Bad,10/03/22
+War Dogs,2016,R,19 Aug 2016,114 min,"Biography, Comedy, Crime",Todd Phillips,"Jonah Hill, Miles Teller, Steve Lantz","United States, Romania",Okay,10/04/22
+Blonde,2022,NC-17,28 Sep 2022,167 min,"Drama, History, Romance",Andrew Dominik,"Ana de Armas, Lily Fisher, Julianne Nicholson",United States,Good,10/04/22
+Jexi,2019,R,11 Oct 2019,84 min,"Comedy, Romance, Sci-Fi","Jon Lucas, Scott Moore","Adam Devine, Alexandra Shipp, Rose Byrne","United States, Canada",Bad,10/09/22
+Role Models,2008,R,07 Nov 2008,99 min,Comedy,David Wain,"Paul Rudd, Seann William Scott, Elizabeth Banks","Germany, United States",Okay,10/09/22
+How to Be Single,2016,R,12 Feb 2016,110 min,"Comedy, Drama, Romance",Christian Ditter,"Dakota Johnson, Rebel Wilson, Leslie Mann",United States,Good,10/13/22
+The Boy Downstairs,2017,PG-13,16 Feb 2018,91 min,"Comedy, Drama, Romance",Sophie Brooks,"Zosia Mamet, Matthew Shear, Deirdre O'Connell",United States,Okay,10/16/22
+Last Night in Soho,2021,R,29 Oct 2021,116 min,"Drama, Horror, Mystery",Edgar Wright,"Thomasin McKenzie, Anya Taylor-Joy, Matt Smith","United Kingdom, China",Okay,10/17/22
+Memory,2022,R,29 Apr 2022,114 min,"Action, Crime, Thriller",Martin Campbell,"Liam Neeson, Guy Pearce, Taj Atwal",United States,Okay,10/18/22
+Jumping from High Places,2022,TV-14,05 Oct 2022,88 min,"Comedy, Drama, Romance",Andrea Jublin,"Federica Torchetti, Cristiano Caccamo, Celeste Savino",Italy,Good,10/18/22
+On Body and Soul,2017,Not Rated,02 Feb 2018,116 min,"Drama, Fantasy, Mystery",Ildikó Enyedi,"Alexandra Borbély, Géza Morcsányi, Réka Tenki",Hungary,Okay,10/18/22
+Under the Riccione Sun,2020,TV-MA,01 Jul 2020,101 min,"Comedy, Drama, Romance",Younuts,"Cristiano Caccamo, Davide Calgaro, Matteo Oscar Giuggioli",Italy,Okay,10/19/22
+Four to Dinner,2022,TV-MA,05 Jan 2022,105 min,"Comedy, Romance",Alessio Maria Federici,"Ilenia Pastorelli, Matilde Gioli, Giuseppe Maggio",Italy,Okay,10/20/22
+An Easy Girl,2019,TV-MA,13 Aug 2020,92 min,"Comedy, Drama",Rebecca Zlotowski,"Mina Farid, Zahia Dehar, Benoît Magimel",France,Bad,10/20/22
+Paris Is Us,2019,N/A,22 Feb 2019,83 min,Drama,Elisabeth Vogler,"Noémie Schmidt, Grégoire Isvarine, Marie Mottet",France,Okay,10/20/22
+Out of My League,2020,TV-MA,18 Aug 2021,91 min,"Comedy, Drama, Romance",Alice Filippi,"Giuseppe Maggio, Ludovica Francesconi, Jozef Gjura",Italy,Bad,10/21/22
+Crazy About Her,2021,TV-MA,26 Feb 2021,102 min,"Comedy, Romance",Dani de la Orden,"Álvaro Cervantes, Susana Abaitua, Luis Zahera",Spain,Good,10/22/22
+Rose Island,2020,TV-14,09 Dec 2020,117 min,"Adventure, Comedy, Drama",Sydney Sibilia,"Elio Germano, Leonardo Lidi, Matilda De Angelis",Italy,Okay,10/23/22
+Love Wedding Repeat,2020,TV-MA,10 Apr 2020,100 min,"Comedy, Romance",Dean Craig,"Sam Claflin, Olivia Munn, Freida Pinto","United Kingdom, Italy",Good,10/23/22
+Someone Borrowed,2022,TV-14,13 Oct 2022,107 min,"Comedy, Romance",Cris D'Amato,"Caio Castro, Thati Lopes, Mariana Xavier",Brazil,Okay,10/23/22
+Nobody Knows I'm Here,2020,TV-MA,24 Jun 2020,91 min,"Drama, Music",Gaspar Antillo,"Jorge Garcia, Lukas Vergara, Millaray Lobos",Chile,Good,10/24/22
+Tell Me When,2020,TV-MA,23 Apr 2021,95 min,Comedy,Gerardo Gatica González,"Héctor Bonilla, Ofelia Reyes Botello, Brett Calo",Mexico,Okay,10/24/22
+Sounds Like Love,2021,TV-MA,29 Sep 2021,110 min,"Comedy, Music, Romance",Juana Macías,"María Valverde, Álex González, Elisabet Casanovas",Spain,Okay,10/25/22
+Friendzone,2021,TV-MA,29 Sep 2021,88 min,"Comedy, Romance",Charles Van Tieghem,"Mickaël Lumière, Manon Azem, Fadily Camara",France,Bad,10/25/22
+Black Adam,2022,PG-13,21 Oct 2022,125 min,"Action, Adventure, Fantasy",Jaume Collet-Serra,"Dwayne Johnson, Aldis Hodge, Pierce Brosnan","United States, Canada, New Zealand, Hungary",Good,10/26/22
+All My Friends Are Dead,2020,TV-MA,03 Feb 2021,96 min,"Comedy, Crime, Horror",Jan Belcl,"Michal Meyer, Adam Woronowicz, Julia Wieniawa-Narkiewicz",Poland,Bad,10/27/22
+Robbing Mussolini,2022,TV-MA,26 Oct 2022,90 min,"Action, Comedy, Crime",Renato De Maria,"Pietro Castellitto, Matilda De Angelis, Tommaso Ragno",Italy,Okay,10/27/22
+Through My Window,2022,TV-MA,04 Feb 2022,116 min,"Comedy, Drama, Romance",Marçal Forés,"Clara Galle, Julio Peña, Guillermo Lasheras",Spain,Okay,10/30/22
+Abandoned,2010,PG-13,24 Aug 2010,88 min,"Drama, Mystery, Thriller",Michael Feifer,"Brittany Murphy, Dean Cain, Mimi Rogers, Peter Bogdanovich",USA,Bad,10/30/22
+Newness,2017,Unrated,03 Nov 2017,117 min,"Drama, Romance",Drake Doremus,"Nicholas Hoult, Laia Costa, Danny Huston",United States,Okay,10/31/22
+The Hobbit: An Unexpected Journey,2012,PG-13,14 Dec 2012,169 min,"Adventure, Fantasy",Peter Jackson,"Martin Freeman, Ian McKellen, Richard Armitage","New Zealand, United States",Good,10/31/22
+The Hobbit: The Desolation of Smaug,2013,PG-13,13 Dec 2013,161 min,"Adventure, Drama, Fantasy",Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage","New Zealand, United States",Good,10/31/22
+The Hobbit: The Battle of the Five Armies,2014,PG-13,17 Dec 2014,144 min,"Adventure, Fantasy",Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage","New Zealand, United States",Good,11/01/22
+Amar,2017,N/A,16 Jul 2017,105 min,"Drama, Romance",Esteban Crespo,"María Pedraza, Pol Monen, Natalia Tena",Spain,Okay,11/01/22
+See How They Run,2022,PG-13,16 Sep 2022,98 min,"Comedy, Crime, Mystery",Tom George,"Kieran Hodgson, Pearl Chanda, Gregory Cox","United States, United Kingdom",Okay,11/03/22
+Who Would You Take to a Deserted Island?,2019,TV-MA,12 Apr 2019,93 min,Drama,Jota Linares,"Pol Monen, Jaime Lorente, Andrea Ros",Spain,Okay,11/04/22
+Accepted,2006,PG-13,18 Aug 2006,93 min,Comedy,Steve Pink,"Justin Long, Jonah Hill, Blake Lively",United States,Good,11/04/22
+A Good Old Fashioned Orgy,2011,R,02 Sep 2011,95 min,"Comedy, Romance","Alex Gregory, Peter Huyck","Jason Sudeikis, Leslie Bibb, Tyler Labine",United States,Okay,11/05/22
+MILF,2018,TV-MA,16 Jul 2020,101 min,Comedy,Axelle Laffont,"Marie-Josée Croze, Virginie Ledoyen, Axelle Laffont","France, Belgium",Bad,11/06/22
+The Aviator,2004,PG-13,25 Dec 2004,170 min,"Biography, Drama",Martin Scorsese,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale","United States, Germany",Okay,11/06/22
+Red Notice,2021,PG-13,12 Nov 2021,118 min,"Action, Comedy, Thriller",Rawson Marshall Thurber,"Dwayne Johnson, Ryan Reynolds, Gal Gadot",United States,Okay,11/06/22
+Friendsgiving,2020,R,23 Oct 2020,95 min,"Comedy, Drama",Nicol Paone,"Malin Akerman, Kat Dennings, Jack Donnelly",United States,Bad,11/06/22
+Don't Worry Darling,2022,R,23 Sep 2022,123 min,"Drama, Mystery, Thriller",Olivia Wilde,"Florence Pugh, Harry Styles, Chris Pine",United States,Okay,11/07/22
+The Bad Guys,2022,PG,22 Apr 2022,100 min,"Animation, Adventure, Comedy",Pierre Perifel,"Sam Rockwell, Marc Maron, Awkwafina","United States, Japan",Good,11/08/22
+Black Panther: Wakanda Forever,2022,PG-13,11 Nov 2022,161 min,"Action, Adventure, Drama",Ryan Coogler,"Letitia Wright, Lupita Nyong'o, Danai Gurira",United States,Good,11/10/22
+All Quiet on the Western Front,2022,R,28 Oct 2022,148 min,"Action, Drama, War",Edward Berger,"Felix Kammerer, Albrecht Schuch, Aaron Hilmer","Germany, United States, United Kingdom",Good,11/12/22
+Captain Phillips,2013,PG-13,11 Oct 2013,134 min,"Action, Biography, Crime",Paul Greengrass,"Tom Hanks, Barkhad Abdi, Barkhad Abdirahman",United States,Good,11/13/22
+He's Just Not That Into You,2009,PG-13,06 Feb 2009,129 min,"Comedy, Drama, Romance",Ken Kwapis,"Ginnifer Goodwin, Jennifer Aniston, Jennifer Connelly","Germany, United States",Good,11/13/22
+Men Don't Leave,1990,PG-13,23 Feb 1990,115 min,"Comedy, Drama",Paul Brickman,"Jessica Lange, Kathy Bates, Arliss Howard",United States,Good,11/14/22
+The Day After Tomorrow,2004,PG-13,28 May 2004,124 min,"Action, Adventure, Sci-Fi",Roland Emmerich,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum",United States,Okay,11/16/22
+Two Night Stand,2014,R,26 Sep 2014,86 min,"Comedy, Romance",Max Nichols,"Miles Teller, Lio Tipton, Jessica Szohr",United States,Okay,11/16/22
+Licorice Pizza,2021,R,25 Dec 2021,133 min,"Comedy, Drama, Romance",Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn","United States, Canada",Good,11/17/22
+The Perks of Being a Wallflower,2012,PG-13,12 Oct 2012,103 min,Drama,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller",United States,Good,11/19/22
+To the Bone,2017,TV-MA,14 Jul 2017,107 min,Drama,Marti Noxon,"Rebekah Kennedy, Lily Collins, Dana L. Wilson",United States,Bad,11/20/22
+Beerfest,2006,R,25 Aug 2006,110 min,Comedy,Jay Chandrasekhar,"Jay Chandrasekhar, Kevin Heffernan, Steve Lemme",United States,Good,11/20/22
+The Four of Us,2021,TV-MA,15 Oct 2021,88 min,"Comedy, Drama, Romance",Florian Gottschick,"Nilam Farooq, Louis Nitsche, Jonas Nay",Germany,Good,11/20/22
+Wedding Crashers,2005,R,15 Jul 2005,119 min,"Comedy, Romance",David Dobkin,"Owen Wilson, Vince Vaughn, Rachel McAdams",United States,Good,11/21/22
+This Is the End,2013,R,12 Jun 2013,107 min,"Comedy, Fantasy","Evan Goldberg, Seth Rogen","James Franco, Jonah Hill, Seth Rogen",United States,Okay,11/22/22
+"I Love You, Man",2009,R,20 Mar 2009,105 min,"Comedy, Romance",John Hamburg,"Paul Rudd, Jason Segel, Rashida Jones",United States,Okay,11/23/22
+Rango,2011,PG,04 Mar 2011,107 min,"Animation, Action, Adventure",Gore Verbinski,"Johnny Depp, Isla Fisher, Timothy Olyphant","United States, United Kingdom",Good,11/24/22
+We're the Millers,2013,R,07 Aug 2013,110 min,"Comedy, Crime",Rawson Marshall Thurber,"Jason Sudeikis, Jennifer Aniston, Emma Roberts","United States, United Kingdom",Okay,11/24/22
+Soul Plane,2004,R,28 May 2004,86 min,Comedy,Jessy Terrero,"Dwayne Adway, Snoop Dogg, Tom Arnold",United States,Okay,11/24/22
+Private Life,2018,R,05 Oct 2018,123 min,"Comedy, Drama",Tamara Jenkins,"Kathryn Hahn, Paul Giamatti, Gabrielle Reid",United States,Good,11/26/22
+21,2008,PG-13,28 Mar 2008,123 min,"Crime, Drama, History",Robert Luketic,"Jim Sturgess, Kate Bosworth, Kevin Spacey",United States,Bad,11/29/22
+You Don't Mess with the Zohan,2008,PG-13,06 Jun 2008,113 min,"Action, Comedy",Dennis Dugan,"Adam Sandler, John Turturro, Emmanuelle Chriqui",United States,Good,11/30/22
+Jurassic Park 3 (2001),2001,N/A,25 Mar 2020,N/A,N/A,N/A,N/A,N/A,Good,12/01/22
+Burnt,2015,R,30 Oct 2015,101 min,"Comedy, Drama",John Wells,"Bradley Cooper, Sienna Miller, Daniel Brühl","United States, United Kingdom",Good,12/02/22
+That Awkward Moment,2014,R,31 Jan 2014,94 min,"Comedy, Romance",Tom Gormican,"Zac Efron, Michael B. Jordan, Miles Teller",United States,Okay,12/03/22
+A Million Ways to Die in the West,2014,R,30 May 2014,116 min,"Comedy, Western",Seth MacFarlane,"Seth MacFarlane, Charlize Theron, Liam Neeson",United States,Bad,12/04/22
+Southpaw,2015,R,24 Jul 2015,124 min,"Action, Crime, Drama",Antoine Fuqua,"Jake Gyllenhaal, Rachel McAdams, Oona Laurence","Hong Kong, United States",Good,12/07/22
+A Star Is Born,2018,R,05 Oct 2018,136 min,"Drama, Music, Romance",Bradley Cooper,"Lady Gaga, Bradley Cooper, Sam Elliott",United States,Good,12/08/22
+Bad Teacher,2011,R,24 Jun 2011,92 min,"Comedy, Romance",Jake Kasdan,"Cameron Diaz, Jason Segel, Justin Timberlake",United States,Good,12/08/22
+Guillermo del Toro's Pinocchio,2022,PG,09 Dec 2022,117 min,"Animation, Drama, Family","Guillermo del Toro, Mark Gustafson","Ewan McGregor, David Bradley, Gregory Mann","United States, Mexico, France",Okay,12/09/22
+Amsterdam,2022,R,07 Oct 2022,134 min,"Comedy, Drama, History",David O. Russell,"Christian Bale, Margot Robbie, John David Washington","United States, Japan",Good,12/11/22
+The Marriage App,2022,TV-MA,07 Dec 2022,101 min,"Comedy, Romance",Sebastián De Caro,"Luisana Lopilato, Juan Minujín, Andrea Rincón",Argentina,Bad,12/12/22
+The Banshees of Inisherin,2022,R,04 Nov 2022,114 min,"Comedy, Drama",Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon","United Kingdom, United States, Ireland",Good,12/13/22
+Emily the Criminal,2022,R,12 Aug 2022,97 min,"Crime, Drama, Thriller",John Patton Ford,"Aubrey Plaza, Theo Rossi, Bernardo Badillo",United States,Okay,12/14/22
+I Am Legend,2007,PG-13,14 Dec 2007,101 min,"Action, Drama, Horror",Francis Lawrence,"Will Smith, Alice Braga, Charlie Tahan",United States,Good,12/15/22
+Megamind,2010,PG,05 Nov 2010,95 min,"Animation, Action, Comedy",Tom McGrath,"Will Ferrell, Jonah Hill, Brad Pitt","United States, Australia",Good,12/15/22
+Avatar,2009,PG-13,18 Dec 2009,162 min,"Action, Adventure, Fantasy",James Cameron,"Sam Worthington, Zoe Saldana, Sigourney Weaver",United States,Good,12/17/22
+Bullet Train,2022,R,05 Aug 2022,127 min,"Action, Comedy, Thriller",David Leitch,"Brad Pitt, Joey King, Aaron Taylor-Johnson","Japan, United States",Good,12/17/22
+Legends of the Fall,1994,R,13 Jan 1995,133 min,"Drama, Romance, War",Edward Zwick,"Brad Pitt, Anthony Hopkins, Aidan Quinn",United States,Okay,12/18/22
+The Green Knight,2021,R,30 Jul 2021,130 min,"Adventure, Drama, Fantasy",David Lowery,"Dev Patel, Alicia Vikander, Joel Edgerton","United States, Canada, Ireland",Good,12/18/22
+Alita: Battle Angel,2019,PG-13,14 Feb 2019,122 min,"Action, Adventure, Sci-Fi",Robert Rodriguez,"Rosa Salazar, Christoph Waltz, Jennifer Connelly","Japan, Canada, United States",Okay,12/19/22
+Office Space,1999,R,19 Feb 1999,89 min,Comedy,Mike Judge,"Ron Livingston, Jennifer Aniston, David Herman",United States,Good,12/19/22
+Kodachrome,2017,TV-MA,20 Apr 2018,105 min,Drama,Mark Raso,"Ed Harris, Jason Sudeikis, Elizabeth Olsen","Canada, United States",Okay,12/20/22
+Where the Crawdads Sing,2022,PG-13,15 Jul 2022,125 min,"Drama, Mystery, Romance",Olivia Newman,"Daisy Edgar-Jones, Taylor John Smith, Harris Dickinson",United States,Good,12/22/22
+The Curious Case of Benjamin Button,2008,PG-13,25 Dec 2008,166 min,"Drama, Fantasy, Romance",David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton",United States,Good,12/22/22
+Snowpiercer,2013,R,11 Jul 2014,126 min,"Action, Drama, Sci-Fi",Bong Joon Ho,"Chris Evans, Jamie Bell, Tilda Swinton","South Korea, Czech Republic",Good,12/23/22
+One Cut of the Dead,2017,Not Rated,24 Sep 2019,96 min,"Comedy, Drama, Horror",Shin'ichirô Ueda,"Takayuki Hamatsu, Yuzuki Akiyama, Harumi Shuhama",Japan,Good,12/24/22
+Side Effects,2013,R,08 Feb 2013,106 min,"Crime, Drama, Mystery",Steven Soderbergh,"Rooney Mara, Channing Tatum, Jude Law",United States,Okay,12/26/22
+Knives Out,2019,PG-13,27 Nov 2019,130 min,"Comedy, Crime, Drama",Rian Johnson,"Daniel Craig, Chris Evans, Ana de Armas",United States,Good,12/28/22
+Glass Onion,2022,PG-13,23 Dec 2022,139 min,"Comedy, Crime, Drama",Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson",United States,Good,12/31/22
+Project X,2012,R,02 Mar 2012,88 min,Comedy,Nima Nourizadeh,"Thomas Mann, Oliver Cooper, Jonathan Daniel Brown",United States,Good,12/31/22
